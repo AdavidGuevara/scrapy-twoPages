@@ -1,4 +1,4 @@
-# Scrapy two pages.
+# Scrapy, extract data from a two page example.
 
-- Extracion de datos de dos paginas diferentes en un solo spider.
-- Se usa itemsloaders y pipelines para limpiar la data.
+- Extraction of data from two different pages in a single spider.
+- Itemsloaders and pipelines are used to clean the data.
